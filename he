@@ -1,0 +1,18 @@
+over_under = 100
+actual_total = 500
+took_the_over = False
+
+actual_greater_than_threshold = actual_total > over_under
+
+if took_the_over:
+    if actual_total > over_under and actual_total % 5 == 0:
+        print("you win DOUBLE")
+    elif actual_total > over_under:
+        print("you win")
+    else:
+        print("you lose")
+else:
+    if actual_total > over_under:
+        print("you lose")
+    else:
+        print("you win")

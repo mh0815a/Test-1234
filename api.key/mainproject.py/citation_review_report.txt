@@ -1,0 +1,21 @@
+**Citation Audit – Legal Memorandum vs. Judicial Opinions**
+
+| # | Case Citation in Memo | Status | Memo’s Claim | Actual Opinion’s Holding & Reasoning | Discrepancy | Suggested Correction |
+|---|------------------------|--------|--------------|-------------------------------------|-------------|----------------------|
+| 1 | **Harper v. Northstar Analytics** | **ACCURATE** | The memo correctly summarizes that the court set the “initial discrimination” framework: belonging to the protected age group, being qualified, being denied, and younger candidate winning. It notes that satisfying those elements does *not* automatically prove discrimination and that the employer can offer a legitimate, nondiscriminatory reason; pretext may be shown. | The opinion contains the identical rule, lists the four elements, and explicitly holds that Harper satisfied them but that no automatic proof of discrimination follows. The memo’s description of the court’s reasoning and the nuanced application to the present case matches the source. | No substantive mismatch. | None – the memo accurately reflects the case. |
+| 2 | **Benton v. City Services** | **ACCURATE** | The memo states that the court explained an employer may rely on documented, job‑related experience, provided the explanation is honestly held and consistently applied. It notes the employer’s 32‑year‑old hire was supported by experience and stresses the need to examine hiring notes. | The opinion likewise teaches that an employer may offer such experience as a legitimate reason, must be honestly held and consistently applied, and that pretext may be shown by evidence of falsity or inconsistency. The court affirmed the employer because records supported the explanation. | The memo’s wording is consistent; it does not overstate the ruling. | None – the memo accurately reflects the case. |
+| 3 | **Rivera v. Summit Group** | **INACCURATE** | Memo claims the court *“held that a stray age‑related remark, standing alone, automatically establishes liability under the Act. Accordingly, Northstar is liable because the supervisor made a retirement‑related comment.”* | The opinion expressly states that an age‑related remark “does not automatically establish liability.” The holding vacated summary judgment and remanded; the remark alone, without corroborating evidence, was insufficient. | The memo incorrectly overstates the court’s conclusion, misrepresenting the scope of liability. | Revise to reflect that a lone remark alone was *not* sufficient liability, and that the court remanded the case for further fact‑finding. It should say: <br>“Rivera v. Summit Group held that an age‑related remark alone does **not** automatically establish liability; the court remanded to consider whether the remark, combined with other evidence, supports a finding of pretext.” |
+
+### Overall Assessment
+
+- **2 of 3 citations (≈ 67 %) are accurate.**  
+- **1 citation (≈ 33 %) is inaccurate.**  
+- The inaccurate citation (Rivera) materially misstates the court’s holding and could mislead the supervisor in assessing the claim’s strength.
+
+**Recommendations**
+
+1. **Correct the Rivera passage** to accurately portray that an isolated age‑related remark is *insufficient* to prove discrimination without additional evidence of intent or pattern.  
+2. **Retain the strong third‑party factual support** in the memo’s discussion (Harper and Benton) – these provide a solid factual and doctrinal basis for the claim.  
+3. **E‑mail the supervising attorney** with the revised memo, highlighting the change to Rivera and noting the overall high level of accuracy.  
+
+By making these adjustments, the memorandum will present a faithful, reliable legal analysis while ensuring that no unstated or mischaracterized authority is cited.
