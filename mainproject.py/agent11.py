@@ -68,9 +68,9 @@ messages = [
     {
         "role": "user",
         "content": """
-        Review the legal citations in mainproject.py.
+        Review the legal citations in legal_memo.txt.
 
-        First, read the mainproject.py file.
+        First, read the memo file.
         Then, list and read the case files in case_1.txt, case_2.txt, case_3.txt.
 
         Compare every case citation in the memo against the actual case law.
@@ -81,6 +81,21 @@ messages = [
         3. The descriptions of the case holdings are correct.
         4. The memo misquotes or misrepresents any case.
         5. Any legal statements lack support from the cases.
+        Classify each citation as:
+            ACCURATE
+            PARTIALLY ACCURATE
+            INACCURATE
+            UNSUPPORTED
+            UNABLE TO VERIFY
+
+For each citation, explain what the memo claims,
+what the actual opinion establishes, any discrepancies,
+and how the memo should be corrected.
+
+Conclude with an overall assessment of citation accuracy.
+
+Use only the provided opinions. Do not invent facts,
+holdings, quotations, or legal authority.
 
         Identify errors and explain how to correct them.
         Do not invent case law or citations.
@@ -104,7 +119,8 @@ while tool_called:
         function_arguments = tool_call["function"]["arguments"]
 
         if function_name == "list_files":
-            path = "mainproject.py"
+            path = "files"
+     
 
             if "path" in function_arguments:
                 path = function_arguments["path"]
